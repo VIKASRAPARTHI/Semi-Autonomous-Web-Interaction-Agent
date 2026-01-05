@@ -1,5 +1,19 @@
 # Semi-Autonomous Web Interaction Agent
 
+## Screenshots
+
+![Dashboard](public/img1.png)
+*Main dashboard showing agent statistics and overview*
+
+![Agent List](public/img2.png)
+*All agents view with status and metrics*
+
+![Agent Detail](public/img3.png)
+*Live agent dashboard with video stream and logs*
+
+![Create Agent](public/img4.png)
+*Agent configuration and deployment interface*
+
 ## Problem Statement
 
 Modern websites are dynamic, complex, and constantly evolving. Traditional scripted testing approaches fail to capture:
